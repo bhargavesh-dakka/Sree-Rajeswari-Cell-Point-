@@ -171,12 +171,12 @@ const Contact = () => {
                   ></textarea>
                 </div>
 
-                <Button 
+                {/* <Button 
                   type="submit" 
                   className="w-full bg-blue-600 hover:bg-blue-700"
                 >
                   Send Message
-                </Button>
+                </Button> */}
                 <Button asChild className="w-full bg-green-600 hover:bg-green-700 mt-4">
                   <a href="https://wa.me/918978591926?text=Hi! I'm interested in your mobile services. Can you help me?" target="_blank" rel="noopener noreferrer">
                     Send via WhatsApp
